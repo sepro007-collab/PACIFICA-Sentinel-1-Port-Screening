@@ -1,0 +1,6 @@
+source_port_id,port_name,country,disaster,mean_anomaly_index,max_anomaly_index,anomalous_patch_fraction,anomalous_patch_count,number_patches,central_patch_anomaly,potential_surface_damage,surface_status
+apia_gita_2018,APIA,WS,Tropical Cyclone Gita,-2.3116467185928196,2.4805989724356166,0.2222222222222222,2,9,False,True,potential_surface_damage
+honiara_harold_2020,HONIARA,SB,Tropical Cyclone Harold,-4.146026488497992,-1.2479279041180984,0.0,0,9,False,False,no_large_anomaly_detected
+luganville_harold_2020,LUGANVILLE,VU,Tropical Cyclone Harold,-1.5366861980111919,4.880895088518396,0.3333333333333333,3,9,False,True,potential_surface_damage
+pago_pago_gita_2018,PAGO PAGO HARBOR,AS,Tropical Cyclone Gita,-3.5951260065632575,-2.7655083086910577,0.0,0,9,False,False,no_large_anomaly_detected
+port_vila_judy_kevin_2023,PORT VILA,VU,Tropical Cyclones Judy and Kevin,-3.0450654725144317,2.066912414054424,0.1111111111111111,1,9,False,False,no_large_anomaly_detected
