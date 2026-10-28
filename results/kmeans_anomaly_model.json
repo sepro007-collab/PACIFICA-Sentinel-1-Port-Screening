@@ -1,0 +1,55 @@
+{
+  "cluster_features": [
+    "reconstruction_change_mean",
+    "reconstruction_change_p95",
+    "anomaly_pixel_fraction",
+    "latent_change",
+    "raw_change_mean_abs_db"
+  ],
+  "scaler_mean": [
+    0.01864970798811151,
+    0.08196926075551245,
+    0.011436680071886156,
+    0.008593487608272376,
+    1.5121847358014848
+  ],
+  "scaler_scale": [
+    0.0022785825568517543,
+    0.00963406575796971,
+    0.017443394851664004,
+    0.003662530990356513,
+    0.23797111879199462
+  ],
+  "kmeans_centres": [
+    [
+      -0.21016393868213729,
+      -0.2880536512944528,
+      -0.2983126322816064,
+      0.21165005086178393,
+      -0.2690655422931998
+    ],
+    [
+      1.6813115094570923,
+      2.3044292103556256,
+      2.386501058252851,
+      -1.6932004068942719,
+      2.1525243383455988
+    ]
+  ],
+  "high_change_cluster": 1,
+  "normal_pixel_p99": 0.3058275878429413,
+  "normal_pixel_median": 0.07151146233081818,
+  "normal_pixel_mad": 0.03235505893826485,
+  "silhouette_score": 0.5685547444440063,
+  "training_ports": [
+    "luganville_harold_2020",
+    "pago_pago_gita_2018",
+    "port_vila_judy_kevin_2023"
+  ],
+  "validation_ports": [
+    "honiara_harold_2020"
+  ],
+  "test_ports": [
+    "apia_gita_2018"
+  ]
+}
