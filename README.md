@@ -24,8 +24,6 @@ results/
   unsupervised_port_results.csv
   five port anomaly-grid PNGs
   model configuration JSON files
-report/
-  final report files
 ```
 
 ## Workflow
