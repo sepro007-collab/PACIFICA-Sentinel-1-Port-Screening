@@ -1,0 +1,9 @@
+{
+  "filters_1": 8,
+  "filters_2": 16,
+  "latent_filters": 64,
+  "kernel_size": 3,
+  "dropout": 0.0,
+  "learning_rate": 0.001,
+  "batch_size": 8
+}
