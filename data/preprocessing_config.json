@@ -1,0 +1,16 @@
+{
+  "patch_size_pixels": 128,
+  "patch_size_metres": 1280,
+  "grid_step_metres": 640,
+  "band_names": [
+    "pre_VV",
+    "pre_VH",
+    "post_VV",
+    "post_VH",
+    "change_VV",
+    "change_VH"
+  ],
+  "nodata_value": -9999.0,
+  "water_occurrence_threshold": 50.0,
+  "patch_directory": "/content/drive/MyDrive/Lucy_CNN/Sentinel1_grid_patches"
+}
